@@ -9,7 +9,7 @@ Participantes:
 ## Descripción del Problema
 <!-- Puedes empezar con una introducción, luego la justificación y plantear el problema. -->
 
-
+# Yaya mijota
 
 ## Especificación de Requisitos
 
@@ -23,7 +23,8 @@ Participantes:
 1. Leer ..
 2. Calcular .... 
 3. Desplegar ...
-
+4. Homocigotos Resecivos
+5. Deje de andar de choto 
 
 #### Requisitos no funcionales
 <!-- Tiempo de respuesta, capacidad de almacenamiento, seguridad, o alguna especificación como el lenguaje de programación, plataforma tecnológica. -->
