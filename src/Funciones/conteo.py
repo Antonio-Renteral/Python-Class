@@ -1,7 +1,12 @@
-def count_bases(dna):
-    bases = "ATGC"
-    for base in bases:
-        numbases = dna.upper().count(base)
-        print(f"{base} {numbases}")
+def count_bases(dna, sig_figs):
+    dna = dna.upper()
+    conteo = {
+        'A': dna.count('A'),
+        'T': dna.count('T'),
+        'G': dna.count('G'),
+        'C': dna.count('C')
+    }
+    return conteo
 
-count_bases("ATGCGATGCTAGCTAGGGCTAGGCTATATAGCGAT")
+dna = "ATGATGGTACAT"
+resultado = count_bases(dna)
